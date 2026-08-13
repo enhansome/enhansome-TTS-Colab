@@ -1,0 +1,333 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Colab Notebooks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Link",
+          "description": "(Original Coqui TTS is no longer maintained as Coqui shut down in 2023.)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-10T09:01:00Z",
+            "owner": "idiap",
+            "repo": "coqui-ai-TTS",
+            "stars": 2311
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-23T02:52:04Z",
+            "owner": "Troyanovsky",
+            "repo": "awesome-TTS-Colab",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "xTTS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Link: myshell-ai/OpenVoice",
+          "description": "(Used for voice conversion based on reference voice), coqui-tts (Use as base TTS model)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-04-19T16:00:00Z",
+            "owner": "myshell-ai",
+            "repo": "OpenVoice",
+            "stars": 37139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-23T02:52:04Z",
+            "owner": "Troyanovsky",
+            "repo": "awesome-TTS-Colab",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "OpenVoice V2 (Voice Conversion)"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Link",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2024-12-10T08:28:12Z",
+            "owner": "huggingface",
+            "repo": "parler-tts",
+            "stars": 5587
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-23T02:52:04Z",
+            "owner": "Troyanovsky",
+            "repo": "awesome-TTS-Colab",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Parler TTS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Link",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "JavaScript",
+            "last_commit": "2025-08-06T22:28:53Z",
+            "owner": "hexgrad",
+            "repo": "kokoro",
+            "stars": 8404
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-23T02:52:04Z",
+            "owner": "Troyanovsky",
+            "repo": "awesome-TTS-Colab",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Kokoro TTS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Link",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-11-19T21:11:55Z",
+            "owner": "nari-labs",
+            "repo": "dia",
+            "stars": 19362
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-23T02:52:04Z",
+            "owner": "Troyanovsky",
+            "repo": "awesome-TTS-Colab",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Dia 1.6B TTS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Link",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2025-01-23T21:31:37Z",
+            "owner": "astramind-ai",
+            "repo": "Auralis",
+            "stars": 626
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-23T02:52:04Z",
+            "owner": "Troyanovsky",
+            "repo": "awesome-TTS-Colab",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Auralis xTTS V2"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Link",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-07-21T12:27:05Z",
+            "owner": "resemble-ai",
+            "repo": "chatterbox",
+            "stars": 25975
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-23T02:52:04Z",
+            "owner": "Troyanovsky",
+            "repo": "awesome-TTS-Colab",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Chatterbox TTS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Link",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "C++",
+            "last_commit": "2026-08-12T22:55:57Z",
+            "owner": "OHF-Voice",
+            "repo": "piper1-gpl",
+            "stars": 5114
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-23T02:52:04Z",
+            "owner": "Troyanovsky",
+            "repo": "awesome-TTS-Colab",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Piper TTS"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "GitHub Link",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Python",
+            "last_commit": "2026-06-11T00:04:42Z",
+            "owner": "KittenML",
+            "repo": "KittenTTS",
+            "stars": 15333
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-01-23T02:52:04Z",
+            "owner": "Troyanovsky",
+            "repo": "awesome-TTS-Colab",
+            "stars": 67
+          }
+        }
+      ],
+      "title": "Kitten TTS"
+    },
+    {
+      "description": "Have a favorite TTS model you'd like to see added to this project?Open an issue or start a discussion to request it!",
+      "items": [],
+      "title": "🙋 Request a Model"
+    },
+    {
+      "description": "This project is for educational and research purposes. Always verify licenses and model usage terms when using TTS models in production.",
+      "items": [],
+      "title": "📌 Disclaimer"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:24:26.560Z",
+    "original_repository": "Troyanovsky/awesome-TTS-Colab",
+    "original_repository_sha": "6140af2ed30896f37918660cf01b941b79086a23",
+    "enhanced_repository": "enhansome/enhansome-TTS-Colab",
+    "enhanced_repository_description": null,
+    "title": "🗣️ Awesome TTS Models in Google Colab with stars"
+  }
+}
