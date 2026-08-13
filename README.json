@@ -53,7 +53,7 @@
             "last_commit": "2025-04-19T16:00:00Z",
             "owner": "myshell-ai",
             "repo": "OpenVoice",
-            "stars": 37139
+            "stars": 37141
           }
         },
         {
@@ -87,7 +87,7 @@
             "last_commit": "2024-12-10T08:28:12Z",
             "owner": "huggingface",
             "repo": "parler-tts",
-            "stars": 5587
+            "stars": 5586
           }
         },
         {
@@ -121,7 +121,7 @@
             "last_commit": "2025-08-06T22:28:53Z",
             "owner": "hexgrad",
             "repo": "kokoro",
-            "stars": 8404
+            "stars": 8405
           }
         },
         {
@@ -155,7 +155,7 @@
             "last_commit": "2025-11-19T21:11:55Z",
             "owner": "nari-labs",
             "repo": "dia",
-            "stars": 19362
+            "stars": 19363
           }
         },
         {
@@ -223,7 +223,7 @@
             "last_commit": "2026-07-21T12:27:05Z",
             "owner": "resemble-ai",
             "repo": "chatterbox",
-            "stars": 25975
+            "stars": 25982
           }
         },
         {
@@ -257,7 +257,7 @@
             "last_commit": "2026-08-12T22:55:57Z",
             "owner": "OHF-Voice",
             "repo": "piper1-gpl",
-            "stars": 5114
+            "stars": 5117
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-06-11T00:04:42Z",
             "owner": "KittenML",
             "repo": "KittenTTS",
-            "stars": 15333
+            "stars": 15334
           }
         },
         {
@@ -323,7 +323,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-13T04:24:26.560Z",
+    "last_updated": "2026-08-13T12:08:06.112Z",
     "original_repository": "Troyanovsky/awesome-TTS-Colab",
     "original_repository_sha": "6140af2ed30896f37918660cf01b941b79086a23",
     "enhanced_repository": "enhansome/enhansome-TTS-Colab",
