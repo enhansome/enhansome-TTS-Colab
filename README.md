@@ -12,13 +12,13 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 * Added at 2025-04-25
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Edge_TTS.ipynb)
-* [GitHub Link](https://github.com/rany2/edge-tts) ⭐ 11,721 | 🐛 3 | 🌐 Python | 📅 2026-03-22
+* [GitHub Link](https://github.com/rany2/edge-tts) ⭐ 11,724 | 🐛 3 | 🌐 Python | 📅 2026-03-22
 * Capabilities: Text-to-speech, Predefined Voices
 * **Note:** Not an open-sourced model
 
 ### xTTS
 
-* [GitHub Link](https://github.com/idiap/coqui-ai-TTS) ⭐ 2,311 | 🐛 17 | 🌐 Python | 📅 2026-06-10 (Original [Coqui TTS](https://github.com/coqui-ai/TTS) ⭐ 45,890 | 🐛 4 | 🌐 Python | 📅 2024-08-16 is no longer maintained as Coqui shut down in 2023.)
+* [GitHub Link](https://github.com/idiap/coqui-ai-TTS) ⭐ 2,311 | 🐛 17 | 🌐 Python | 📅 2026-06-10 (Original [Coqui TTS](https://github.com/coqui-ai/TTS) ⭐ 45,897 | 🐛 4 | 🌐 Python | 📅 2024-08-16 is no longer maintained as Coqui shut down in 2023.)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/xTTS.ipynb) ⭐ 67 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-23
 * Added at 2025-05-19
 * [Model Link](https://huggingface.co/coqui/XTTS-v2)
@@ -28,7 +28,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 ### OpenVoice V2 (Voice Conversion)
 
-* GitHub Link: [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) ⭐ 37,141 | 🐛 307 | 🌐 Python | 📅 2025-04-19 (Used for voice conversion based on reference voice), [coqui-tts](https://github.com/idiap/coqui-ai-TTS) ⭐ 2,311 | 🐛 17 | 🌐 Python | 📅 2026-06-10 (Use as base TTS model)
+* GitHub Link: [myshell-ai/OpenVoice](https://github.com/myshell-ai/OpenVoice) ⭐ 37,144 | 🐛 307 | 🌐 Python | 📅 2025-04-19 (Used for voice conversion based on reference voice), [coqui-tts](https://github.com/idiap/coqui-ai-TTS) ⭐ 2,311 | 🐛 17 | 🌐 Python | 📅 2026-06-10 (Use as base TTS model)
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/OpenVoice_V2.ipynb) ⭐ 67 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-23
 * Added at 2025-05-19
 * [Model Link](https://huggingface.co/myshell-ai/OpenVoiceV2)
@@ -46,7 +46,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 ### Kokoro TTS
 
-* [GitHub Link](https://github.com/hexgrad/kokoro) ⭐ 8,405 | 🐛 200 | 🌐 JavaScript | 📅 2025-08-06
+* [GitHub Link](https://github.com/hexgrad/kokoro) ⭐ 8,415 | 🐛 200 | 🌐 JavaScript | 📅 2025-08-06
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/kokoro_TTS.ipynb) ⭐ 67 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-23
 * Added at 2025-05-19
 * [Model Link](https://huggingface.co/hexgrad/Kokoro-82M)
@@ -56,7 +56,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 ### Dia 1.6B TTS
 
-* [GitHub Link](https://github.com/nari-labs/dia) ⭐ 19,363 | 🐛 91 | 🌐 Python | 📅 2025-11-19
+* [GitHub Link](https://github.com/nari-labs/dia) ⭐ 19,364 | 🐛 91 | 🌐 Python | 📅 2025-11-19
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/Dia_TTS.ipynb) ⭐ 67 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-23
 * Added at 2025-05-19
 * [Model Link](https://huggingface.co/nari-labs/Dia-1.6B)
@@ -74,7 +74,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 ### Chatterbox TTS
 
-* [GitHub Link](https://github.com/resemble-ai/chatterbox) ⭐ 25,982 | 🐛 358 | 🌐 Python | 📅 2026-07-21
+* [GitHub Link](https://github.com/resemble-ai/chatterbox) ⭐ 25,990 | 🐛 358 | 🌐 Python | 📅 2026-07-21
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/chatterbox_TTS.ipynb) ⭐ 67 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-23
 * Added at 2025-06-06
 * [Model Link](https://huggingface.co/ResembleAI/chatterbox)
@@ -82,7 +82,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 ### Piper TTS
 
-* [GitHub Link](https://github.com/OHF-Voice/piper1-gpl) ⭐ 5,117 | 🐛 112 | 🌐 C++ | 📅 2026-08-12
+* [GitHub Link](https://github.com/OHF-Voice/piper1-gpl) ⭐ 5,122 | 🐛 112 | 🌐 C++ | 📅 2026-08-14
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/piper1_gpl_TTS.ipynb) ⭐ 67 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-23
 * Added at 2025-08-07
 * [Model Link](https://huggingface.co/rhasspy/piper-voices)
@@ -90,7 +90,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 ### Kitten TTS
 
-* [GitHub Link](https://github.com/KittenML/KittenTTS) ⭐ 15,334 | 🐛 123 | 🌐 Python | 📅 2026-06-11
+* [GitHub Link](https://github.com/KittenML/KittenTTS) ⭐ 15,340 | 🐛 122 | 🌐 Python | 📅 2026-06-11
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/Kitten_TTS_Nano.ipynb) ⭐ 67 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-23
 * Added at 2025-08-07
 * [Model Link (Nano Preview)](https://huggingface.co/KittenML/kitten-tts-nano-0.1)
@@ -101,7 +101,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 * Added at 2025-08-26
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/VibeVoice%201.5B%20TTS.ipynb)
-* [GitHub Link](https://github.com/microsoft/VibeVoice) ⭐ 52,628 | 🐛 181 | 🌐 Python | 📅 2026-07-24
+* [GitHub Link](https://github.com/microsoft/VibeVoice) ⭐ 52,679 | 🐛 181 | 🌐 Python | 📅 2026-07-24
 * [Model Link](https://huggingface.co/microsoft/VibeVoice-1.5B)
 * Capabilities: Context-Aware Expression, Multi-lingual conversation, Podcast with Background Music, Long Conversational Speech
 * Languages supported: English, Chinese
@@ -111,7 +111,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 * Added at 2025-09-17
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Index_TTS_V2.ipynb)
-* [GitHub Link](https://github.com/index-tts/index-tts) ⭐ 22,798 | 🐛 383 | 🌐 Python | 📅 2026-08-13
+* [GitHub Link](https://github.com/index-tts/index-tts) ⭐ 22,864 | 🐛 388 | 🌐 Python | 📅 2026-08-13
 * [Model Link](https://huggingface.co/IndexTeam/IndexTTS-2)
 * Capabilities: Emotion-Controlled Speech, Duration-Specific Generation, Zero-Shot Timbre Cloning, Multi-Modal Emotion Guidance, High-Stability Emotional Speech
 * Reasons for recommendation: Great voice-cloning capability with emotional steering.
@@ -120,7 +120,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 * Added at 2025-10-21
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Neu_TTS_Air.ipynb)
-* [GitHub Link](https://github.com/neuphonic/neutts-air) ⭐ 6,233 | 🐛 37 | 🌐 Python | 📅 2026-07-30
+* [GitHub Link](https://github.com/neuphonic/neutts-air) ⭐ 6,234 | 🐛 37 | 🌐 Python | 📅 2026-07-30
 * [Model Link](https://huggingface.co/neuphonic/neutts-air)
 * Capabilities: Real-Time On-Device Speech, Ultra-Realistic Human-Like Voices, Instant Voice Cloning (3s sample), Embedded-Optimized GGUF Format, Secure & Watermarked Output
 * Reasons for recommendation: Super-realistic, on-device text-to-speech (TTS) language model with instant voice cloning.
@@ -129,7 +129,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 * Added at 2025-12-02
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Orpheus_TTS.ipynb)
-* [GitHub Link](https://github.com/canopyai/Orpheus-TTS) ⭐ 6,289 | 🐛 127 | 🌐 Python | 📅 2025-12-05
+* [GitHub Link](https://github.com/canopyai/Orpheus-TTS) ⭐ 6,290 | 🐛 127 | 🌐 Python | 📅 2025-12-05
 * [Model Link](https://huggingface.co/canopylabs/orpheus-3b-0.1-ft)
 * Capabilities: Text-to-speech, Human-Like Expressive Speech, Zero-Shot Voice Cloning, Guided Emotion & Intonation Tags, Low-Latency Streaming
 * Languages supported: English
@@ -140,7 +140,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 * Added at 2025-12-05
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Supertonic_TTS.ipynb)
-* [GitHub Link](https://github.com/supertone-inc/supertonic) ⭐ 13,672 | 🐛 129 | 🌐 Swift | 📅 2026-07-24
+* [GitHub Link](https://github.com/supertone-inc/supertonic) ⭐ 13,680 | 🐛 129 | 🌐 Swift | 📅 2026-07-24
 * [Model Link](https://huggingface.co/Supertone/supertonic)
 * Capabilities: Text-to-speech, Predefined Voices, Extreme-Speed Inference, Lightweight Deployment, Natural Text Handling, Fully Local Processing
 * Reason for recommendation: Ultra-lightweight (66M parameters), lightning-fast even on CPU with decent quality, privacy-safe on-device processing.
@@ -149,7 +149,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 * Added at 2025-12-15
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/GLM_TTS.ipynb)
-* [GitHub Link](https://github.com/zai-org/GLM-TTS) ⭐ 1,048 | 🐛 46 | 🌐 Python | 📅 2026-04-10
+* [GitHub Link](https://github.com/zai-org/GLM-TTS) ⭐ 1,049 | 🐛 46 | 🌐 Python | 📅 2026-04-10
 * [Model Link](https://huggingface.co/zai-org/GLM-TTS)
 * Capabilities: Text-to-speech, Zero-Shot Voice Cloning, RL-Enhanced Emotion Control, Streaming Real-Time Synthesis, Phoneme-Level Control
 * Languages supported: English, Chinese, Mixed Language (En/Zh)
@@ -159,7 +159,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 * Added at 2025-12-30
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Soprano_TTS.ipynb)
-* [GitHub Link](https://github.com/ekwek1/soprano) ⭐ 1,407 | 🐛 23 | 🌐 Python | 📅 2026-01-15
+* [GitHub Link](https://github.com/ekwek1/soprano) ⭐ 1,437 | 🐛 23 | 🌐 Python | 📅 2026-01-15
 * [Model Link](https://huggingface.co/ekwek/Soprano-80M)
 * Capabilities: Text-to-speech, Ultra-Fast Real-Time TTS, 32 kHz High-Fidelity Audio, Streaming Inference, Lightweight Deployment, Open-Source
 * Languages supported: English
@@ -169,7 +169,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 * Added at 2025-12-30
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Pocket_TTS.ipynb)
-* [GitHub Link](https://github.com/kyutai-labs/pocket-tts) ⭐ 8,466 | 🐛 65 | 🌐 Python | 📅 2026-08-11
+* [GitHub Link](https://github.com/kyutai-labs/pocket-tts) ⭐ 8,510 | 🐛 65 | 🌐 Python | 📅 2026-08-11
 * [Model Link](https://huggingface.co/kyutai/pocket-tts)
 * Capabilities: CPU-Based Speech Generation, Voice Cloning, Instant Audio Streaming, Low Latency (\~200ms), Faster Than Real-Time (\~6x), Python API and CLI, Handles Long Text Inputs
 * Languages supported: English
@@ -231,4 +231,4 @@ This project is for **educational and research** purposes. Always verify license
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
