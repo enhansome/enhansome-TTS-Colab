@@ -74,7 +74,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 ### Chatterbox TTS
 
-* [GitHub Link](https://github.com/resemble-ai/chatterbox) ⭐ 26,062 | 🐛 358 | 🌐 Python | 📅 2026-07-21
+* [GitHub Link](https://github.com/resemble-ai/chatterbox) ⭐ 26,063 | 🐛 358 | 🌐 Python | 📅 2026-07-21
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/Troyanovsky/awesome-TTS-Colab/blob/main/chatterbox_TTS.ipynb) ⭐ 67 | 🐛 0 | 🌐 Jupyter Notebook | 📅 2026-01-23
 * Added at 2025-06-06
 * [Model Link](https://huggingface.co/ResembleAI/chatterbox)
@@ -101,7 +101,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 * Added at 2025-08-26
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/VibeVoice%201.5B%20TTS.ipynb)
-* [GitHub Link](https://github.com/microsoft/VibeVoice) ⭐ 52,911 | 🐛 183 | 🌐 Python | 📅 2026-07-24
+* [GitHub Link](https://github.com/microsoft/VibeVoice) ⭐ 52,912 | 🐛 183 | 🌐 Python | 📅 2026-07-24
 * [Model Link](https://huggingface.co/microsoft/VibeVoice-1.5B)
 * Capabilities: Context-Aware Expression, Multi-lingual conversation, Podcast with Background Music, Long Conversational Speech
 * Languages supported: English, Chinese
@@ -111,7 +111,7 @@ Whether you're experimenting, researching, or just playing around with voice syn
 
 * Added at 2025-09-17
 * [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Troyanovsky/awesome-TTS-Colab/blob/main/Index_TTS_V2.ipynb)
-* [GitHub Link](https://github.com/index-tts/index-tts) ⭐ 23,195 | 🐛 396 | 🌐 Python | 📅 2026-08-18
+* [GitHub Link](https://github.com/index-tts/index-tts) ⭐ 23,197 | 🐛 396 | 🌐 Python | 📅 2026-08-18
 * [Model Link](https://huggingface.co/IndexTeam/IndexTTS-2)
 * Capabilities: Emotion-Controlled Speech, Duration-Specific Generation, Zero-Shot Timbre Cloning, Multi-Modal Emotion Guidance, High-Stability Emotional Speech
 * Reasons for recommendation: Great voice-cloning capability with emotional steering.

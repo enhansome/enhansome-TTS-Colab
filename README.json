@@ -239,7 +239,7 @@
                 "last_commit": "2026-07-21T12:27:05Z",
                 "owner": "resemble-ai",
                 "repo": "chatterbox",
-                "stars": 26062
+                "stars": 26063
               }
             },
             {
@@ -341,7 +341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T11:49:35.666Z",
+    "last_updated": "2026-08-19T12:16:18.333Z",
     "original_repository": "Troyanovsky/awesome-TTS-Colab",
     "original_repository_id": 972439820,
     "original_repository_sha": "6140af2ed30896f37918660cf01b941b79086a23",
