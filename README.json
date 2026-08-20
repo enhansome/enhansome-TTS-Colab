@@ -17,7 +17,7 @@
                 "last_commit": "2026-06-10T09:01:00Z",
                 "owner": "idiap",
                 "repo": "coqui-ai-TTS",
-                "stars": 2312
+                "stars": 2313
               }
             },
             {
@@ -54,7 +54,7 @@
                 "last_commit": "2025-04-19T16:00:00Z",
                 "owner": "myshell-ai",
                 "repo": "OpenVoice",
-                "stars": 37157
+                "stars": 37161
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2025-08-06T22:28:53Z",
                 "owner": "hexgrad",
                 "repo": "kokoro",
-                "stars": 8477
+                "stars": 8489
               }
             },
             {
@@ -165,7 +165,7 @@
                 "last_commit": "2025-11-19T21:11:55Z",
                 "owner": "nari-labs",
                 "repo": "dia",
-                "stars": 19369
+                "stars": 19370
               }
             },
             {
@@ -239,7 +239,7 @@
                 "last_commit": "2026-07-21T12:27:05Z",
                 "owner": "resemble-ai",
                 "repo": "chatterbox",
-                "stars": 26063
+                "stars": 26079
               }
             },
             {
@@ -276,7 +276,7 @@
                 "last_commit": "2026-08-15T18:45:07Z",
                 "owner": "OHF-Voice",
                 "repo": "piper1-gpl",
-                "stars": 5183
+                "stars": 5189
               }
             },
             {
@@ -313,7 +313,7 @@
                 "last_commit": "2026-08-19T00:12:38Z",
                 "owner": "KittenML",
                 "repo": "KittenTTS",
-                "stars": 15368
+                "stars": 15372
               }
             },
             {
@@ -341,7 +341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:16:18.333Z",
+    "last_updated": "2026-08-20T11:52:13.141Z",
     "original_repository": "Troyanovsky/awesome-TTS-Colab",
     "original_repository_id": 972439820,
     "original_repository_sha": "6140af2ed30896f37918660cf01b941b79086a23",
