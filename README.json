@@ -54,7 +54,7 @@
                 "last_commit": "2025-04-19T16:00:00Z",
                 "owner": "myshell-ai",
                 "repo": "OpenVoice",
-                "stars": 37169
+                "stars": 37215
               }
             },
             {
@@ -128,7 +128,7 @@
                 "last_commit": "2025-08-06T22:28:53Z",
                 "owner": "hexgrad",
                 "repo": "kokoro",
-                "stars": 8513
+                "stars": 8529
               }
             },
             {
@@ -239,7 +239,7 @@
                 "last_commit": "2026-07-21T12:27:05Z",
                 "owner": "resemble-ai",
                 "repo": "chatterbox",
-                "stars": 26099
+                "stars": 26112
               }
             },
             {
@@ -276,7 +276,7 @@
                 "last_commit": "2026-08-22T07:10:02Z",
                 "owner": "OHF-Voice",
                 "repo": "piper1-gpl",
-                "stars": 5216
+                "stars": 5247
               }
             },
             {
@@ -313,7 +313,7 @@
                 "last_commit": "2026-08-19T00:12:38Z",
                 "owner": "KittenML",
                 "repo": "KittenTTS",
-                "stars": 15381
+                "stars": 15385
               }
             },
             {
@@ -341,7 +341,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T11:44:17.834Z",
+    "last_updated": "2026-08-23T11:44:11.520Z",
     "original_repository": "Troyanovsky/awesome-TTS-Colab",
     "original_repository_id": 972439820,
     "original_repository_sha": "6140af2ed30896f37918660cf01b941b79086a23",
