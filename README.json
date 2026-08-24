@@ -8,6 +8,28 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 366146447,
+                "language": "Python",
+                "last_commit": "2026-03-22T19:58:31Z",
+                "owner": "rany2",
+                "repo": "edge-tts",
+                "stars": 11788
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Edge TTS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Link",
               "description": "(Original Coqui TTS is no longer maintained as Coqui shut down in 2023.)",
               "children": [],
               "repo_info": {
@@ -22,7 +44,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "awesome-TTS-Colab",
               "description": null,
               "children": [],
               "repo_info": {
@@ -54,12 +76,12 @@
                 "last_commit": "2025-04-19T16:00:00Z",
                 "owner": "myshell-ai",
                 "repo": "OpenVoice",
-                "stars": 37267
+                "stars": 37268
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "awesome-TTS-Colab",
               "description": null,
               "children": [],
               "repo_info": {
@@ -96,7 +118,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "awesome-TTS-Colab",
               "description": null,
               "children": [],
               "repo_info": {
@@ -128,12 +150,12 @@
                 "last_commit": "2025-08-06T22:28:53Z",
                 "owner": "hexgrad",
                 "repo": "kokoro",
-                "stars": 8541
+                "stars": 8543
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "awesome-TTS-Colab",
               "description": null,
               "children": [],
               "repo_info": {
@@ -170,7 +192,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "awesome-TTS-Colab",
               "description": null,
               "children": [],
               "repo_info": {
@@ -207,7 +229,7 @@
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "awesome-TTS-Colab",
               "description": null,
               "children": [],
               "repo_info": {
@@ -239,12 +261,12 @@
                 "last_commit": "2026-07-21T12:27:05Z",
                 "owner": "resemble-ai",
                 "repo": "chatterbox",
-                "stars": 26128
+                "stars": 26129
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "awesome-TTS-Colab",
               "description": null,
               "children": [],
               "repo_info": {
@@ -276,12 +298,12 @@
                 "last_commit": "2026-08-22T07:10:02Z",
                 "owner": "OHF-Voice",
                 "repo": "piper1-gpl",
-                "stars": 5257
+                "stars": 5260
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "awesome-TTS-Colab",
               "description": null,
               "children": [],
               "repo_info": {
@@ -313,12 +335,12 @@
                 "last_commit": "2026-08-19T00:12:38Z",
                 "owner": "KittenML",
                 "repo": "KittenTTS",
-                "stars": 15390
+                "stars": 15391
               }
             },
             {
               "node_type": "item",
-              "title": "",
+              "title": "awesome-TTS-Colab",
               "description": null,
               "children": [],
               "repo_info": {
@@ -335,13 +357,189 @@
           "description": null,
           "node_type": "group",
           "title": "Kitten TTS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1044296738,
+                "language": "Python",
+                "last_commit": "2026-07-24T09:24:29Z",
+                "owner": "microsoft",
+                "repo": "VibeVoice",
+                "stars": 53161
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "VibeVoice 1.5B TTS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 928102730,
+                "language": "Python",
+                "last_commit": "2026-08-18T06:52:28Z",
+                "owner": "index-tts",
+                "repo": "index-tts",
+                "stars": 23428
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Index TTS V2"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1068475197,
+                "language": "Python",
+                "last_commit": "2026-07-30T14:11:22Z",
+                "owner": "neuphonic",
+                "repo": "neutts",
+                "stars": 6253
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Neu TTS Air"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 944828547,
+                "language": "Python",
+                "last_commit": "2025-12-05T19:01:02Z",
+                "owner": "canopyai",
+                "repo": "Orpheus-TTS",
+                "stars": 6311
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Orpheus TTS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1098852899,
+                "language": "Swift",
+                "last_commit": "2026-07-24T04:00:17Z",
+                "owner": "supertone-inc",
+                "repo": "supertonic",
+                "stars": 13724
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Supertonic TTS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1111008178,
+                "language": "Python",
+                "last_commit": "2026-04-10T08:50:23Z",
+                "owner": "zai-org",
+                "repo": "GLM-TTS",
+                "stars": 1055
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GLM TTS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1107251597,
+                "language": "Python",
+                "last_commit": "2026-01-15T16:32:56Z",
+                "owner": "ekwek1",
+                "repo": "soprano",
+                "stars": 1484
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Soprano TTS"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GitHub Link",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1129863360,
+                "language": "Python",
+                "last_commit": "2026-08-17T09:48:39Z",
+                "owner": "kyutai-labs",
+                "repo": "pocket-tts",
+                "stars": 8901
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Pocket TTS"
         }
       ],
       "title": "Colab Notebooks"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T11:53:04.137Z",
+    "last_updated": "2026-08-24T14:47:23.639Z",
     "original_repository": "Troyanovsky/awesome-TTS-Colab",
     "original_repository_id": 972439820,
     "original_repository_sha": "6140af2ed30896f37918660cf01b941b79086a23",
