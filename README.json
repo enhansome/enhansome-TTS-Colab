@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-22T19:58:31Z",
                 "owner": "rany2",
                 "repo": "edge-tts",
-                "stars": 11797
+                "stars": 11801
               }
             }
           ],
@@ -39,7 +39,7 @@
                 "last_commit": "2026-06-10T09:01:00Z",
                 "owner": "idiap",
                 "repo": "coqui-ai-TTS",
-                "stars": 2311
+                "stars": 2312
               }
             },
             {
@@ -76,7 +76,7 @@
                 "last_commit": "2025-04-19T16:00:00Z",
                 "owner": "myshell-ai",
                 "repo": "OpenVoice",
-                "stars": 37281
+                "stars": 37310
               }
             },
             {
@@ -150,7 +150,7 @@
                 "last_commit": "2025-08-06T22:28:53Z",
                 "owner": "hexgrad",
                 "repo": "kokoro",
-                "stars": 8556
+                "stars": 8566
               }
             },
             {
@@ -187,7 +187,7 @@
                 "last_commit": "2025-11-19T21:11:55Z",
                 "owner": "nari-labs",
                 "repo": "dia",
-                "stars": 19376
+                "stars": 19377
               }
             },
             {
@@ -261,7 +261,7 @@
                 "last_commit": "2026-07-21T12:27:05Z",
                 "owner": "resemble-ai",
                 "repo": "chatterbox",
-                "stars": 26143
+                "stars": 26154
               }
             },
             {
@@ -298,7 +298,7 @@
                 "last_commit": "2026-08-22T07:10:02Z",
                 "owner": "OHF-Voice",
                 "repo": "piper1-gpl",
-                "stars": 5268
+                "stars": 5282
               }
             },
             {
@@ -335,7 +335,7 @@
                 "last_commit": "2026-08-19T00:12:38Z",
                 "owner": "KittenML",
                 "repo": "KittenTTS",
-                "stars": 15393
+                "stars": 15402
               }
             },
             {
@@ -372,7 +372,7 @@
                 "last_commit": "2026-07-24T09:24:29Z",
                 "owner": "microsoft",
                 "repo": "VibeVoice",
-                "stars": 53184
+                "stars": 53217
               }
             }
           ],
@@ -394,7 +394,7 @@
                 "last_commit": "2026-08-18T06:52:28Z",
                 "owner": "index-tts",
                 "repo": "index-tts",
-                "stars": 23454
+                "stars": 23496
               }
             }
           ],
@@ -438,7 +438,7 @@
                 "last_commit": "2025-12-05T19:01:02Z",
                 "owner": "canopyai",
                 "repo": "Orpheus-TTS",
-                "stars": 6313
+                "stars": 6314
               }
             }
           ],
@@ -460,7 +460,7 @@
                 "last_commit": "2026-07-24T04:00:17Z",
                 "owner": "supertone-inc",
                 "repo": "supertonic",
-                "stars": 13729
+                "stars": 13732
               }
             }
           ],
@@ -504,7 +504,7 @@
                 "last_commit": "2026-01-15T16:32:56Z",
                 "owner": "ekwek1",
                 "repo": "soprano",
-                "stars": 1485
+                "stars": 1486
               }
             }
           ],
@@ -523,10 +523,10 @@
                 "archived": false,
                 "id": 1129863360,
                 "language": "Python",
-                "last_commit": "2026-08-17T09:48:39Z",
+                "last_commit": "2026-08-26T09:36:32Z",
                 "owner": "kyutai-labs",
                 "repo": "pocket-tts",
-                "stars": 8920
+                "stars": 9084
               }
             }
           ],
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T11:53:49.691Z",
+    "last_updated": "2026-08-26T11:55:09.525Z",
     "original_repository": "Troyanovsky/awesome-TTS-Colab",
     "original_repository_id": 972439820,
     "original_repository_sha": "6140af2ed30896f37918660cf01b941b79086a23",
