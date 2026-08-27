@@ -17,7 +17,7 @@
                 "last_commit": "2026-03-22T19:58:31Z",
                 "owner": "rany2",
                 "repo": "edge-tts",
-                "stars": 11805
+                "stars": 11807
               }
             }
           ],
@@ -76,7 +76,7 @@
                 "last_commit": "2025-04-19T16:00:00Z",
                 "owner": "myshell-ai",
                 "repo": "OpenVoice",
-                "stars": 37317
+                "stars": 37326
               }
             },
             {
@@ -150,7 +150,7 @@
                 "last_commit": "2025-08-06T22:28:53Z",
                 "owner": "hexgrad",
                 "repo": "kokoro",
-                "stars": 8576
+                "stars": 8581
               }
             },
             {
@@ -187,7 +187,7 @@
                 "last_commit": "2025-11-19T21:11:55Z",
                 "owner": "nari-labs",
                 "repo": "dia",
-                "stars": 19380
+                "stars": 19382
               }
             },
             {
@@ -261,7 +261,7 @@
                 "last_commit": "2026-07-21T12:27:05Z",
                 "owner": "resemble-ai",
                 "repo": "chatterbox",
-                "stars": 26164
+                "stars": 26169
               }
             },
             {
@@ -298,7 +298,7 @@
                 "last_commit": "2026-08-22T07:10:02Z",
                 "owner": "OHF-Voice",
                 "repo": "piper1-gpl",
-                "stars": 5291
+                "stars": 5300
               }
             },
             {
@@ -335,7 +335,7 @@
                 "last_commit": "2026-08-19T00:12:38Z",
                 "owner": "KittenML",
                 "repo": "KittenTTS",
-                "stars": 15404
+                "stars": 15408
               }
             },
             {
@@ -372,7 +372,7 @@
                 "last_commit": "2026-07-24T09:24:29Z",
                 "owner": "microsoft",
                 "repo": "VibeVoice",
-                "stars": 53240
+                "stars": 53249
               }
             }
           ],
@@ -394,7 +394,7 @@
                 "last_commit": "2026-08-18T06:52:28Z",
                 "owner": "index-tts",
                 "repo": "index-tts",
-                "stars": 23526
+                "stars": 23538
               }
             }
           ],
@@ -438,7 +438,7 @@
                 "last_commit": "2025-12-05T19:01:02Z",
                 "owner": "canopyai",
                 "repo": "Orpheus-TTS",
-                "stars": 6316
+                "stars": 6319
               }
             }
           ],
@@ -460,7 +460,7 @@
                 "last_commit": "2026-07-24T04:00:17Z",
                 "owner": "supertone-inc",
                 "repo": "supertonic",
-                "stars": 13734
+                "stars": 13736
               }
             }
           ],
@@ -482,7 +482,7 @@
                 "last_commit": "2026-04-10T08:50:23Z",
                 "owner": "zai-org",
                 "repo": "GLM-TTS",
-                "stars": 1055
+                "stars": 1056
               }
             }
           ],
@@ -504,7 +504,7 @@
                 "last_commit": "2026-01-15T16:32:56Z",
                 "owner": "ekwek1",
                 "repo": "soprano",
-                "stars": 1487
+                "stars": 1488
               }
             }
           ],
@@ -526,7 +526,7 @@
                 "last_commit": "2026-08-27T12:08:29Z",
                 "owner": "kyutai-labs",
                 "repo": "pocket-tts",
-                "stars": 9152
+                "stars": 9166
               }
             }
           ],
@@ -539,7 +539,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:09:28.437Z",
+    "last_updated": "2026-08-27T21:04:46.815Z",
     "original_repository_info": {
       "archived": false,
       "id": 972439820,
