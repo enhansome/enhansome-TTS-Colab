@@ -17,8 +17,9 @@
                 "last_commit": "2026-03-22T19:58:31Z",
                 "owner": "rany2",
                 "repo": "edge-tts",
-                "stars": 11807
-              }
+                "stars": 11813
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -40,7 +41,8 @@
                 "owner": "idiap",
                 "repo": "coqui-ai-TTS",
                 "stars": 2312
-              }
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             },
             {
               "node_type": "item",
@@ -55,7 +57,8 @@
                 "owner": "Troyanovsky",
                 "repo": "awesome-TTS-Colab",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -76,8 +79,9 @@
                 "last_commit": "2025-04-19T16:00:00Z",
                 "owner": "myshell-ai",
                 "repo": "OpenVoice",
-                "stars": 37326
-              }
+                "stars": 37342
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             },
             {
               "node_type": "item",
@@ -92,7 +96,8 @@
                 "owner": "Troyanovsky",
                 "repo": "awesome-TTS-Colab",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -113,8 +118,9 @@
                 "last_commit": "2024-12-10T08:28:12Z",
                 "owner": "huggingface",
                 "repo": "parler-tts",
-                "stars": 5585
-              }
+                "stars": 5586
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             },
             {
               "node_type": "item",
@@ -129,7 +135,8 @@
                 "owner": "Troyanovsky",
                 "repo": "awesome-TTS-Colab",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -150,8 +157,9 @@
                 "last_commit": "2025-08-06T22:28:53Z",
                 "owner": "hexgrad",
                 "repo": "kokoro",
-                "stars": 8581
-              }
+                "stars": 8595
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             },
             {
               "node_type": "item",
@@ -166,7 +174,8 @@
                 "owner": "Troyanovsky",
                 "repo": "awesome-TTS-Colab",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -187,8 +196,9 @@
                 "last_commit": "2025-11-19T21:11:55Z",
                 "owner": "nari-labs",
                 "repo": "dia",
-                "stars": 19382
-              }
+                "stars": 19385
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             },
             {
               "node_type": "item",
@@ -203,7 +213,8 @@
                 "owner": "Troyanovsky",
                 "repo": "awesome-TTS-Colab",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -225,7 +236,8 @@
                 "owner": "astramind-ai",
                 "repo": "Auralis",
                 "stars": 625
-              }
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             },
             {
               "node_type": "item",
@@ -240,7 +252,8 @@
                 "owner": "Troyanovsky",
                 "repo": "awesome-TTS-Colab",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -261,8 +274,9 @@
                 "last_commit": "2026-07-21T12:27:05Z",
                 "owner": "resemble-ai",
                 "repo": "chatterbox",
-                "stars": 26169
-              }
+                "stars": 26183
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             },
             {
               "node_type": "item",
@@ -277,7 +291,8 @@
                 "owner": "Troyanovsky",
                 "repo": "awesome-TTS-Colab",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -298,8 +313,9 @@
                 "last_commit": "2026-08-22T07:10:02Z",
                 "owner": "OHF-Voice",
                 "repo": "piper1-gpl",
-                "stars": 5300
-              }
+                "stars": 5310
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             },
             {
               "node_type": "item",
@@ -314,7 +330,8 @@
                 "owner": "Troyanovsky",
                 "repo": "awesome-TTS-Colab",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -335,8 +352,9 @@
                 "last_commit": "2026-08-19T00:12:38Z",
                 "owner": "KittenML",
                 "repo": "KittenTTS",
-                "stars": 15408
-              }
+                "stars": 15412
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             },
             {
               "node_type": "item",
@@ -351,7 +369,8 @@
                 "owner": "Troyanovsky",
                 "repo": "awesome-TTS-Colab",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -372,8 +391,9 @@
                 "last_commit": "2026-07-24T09:24:29Z",
                 "owner": "microsoft",
                 "repo": "VibeVoice",
-                "stars": 53249
-              }
+                "stars": 53300
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -394,8 +414,9 @@
                 "last_commit": "2026-08-18T06:52:28Z",
                 "owner": "index-tts",
                 "repo": "index-tts",
-                "stars": 23538
-              }
+                "stars": 23562
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -417,7 +438,8 @@
                 "owner": "neuphonic",
                 "repo": "neutts",
                 "stars": 6256
-              }
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -439,7 +461,8 @@
                 "owner": "canopyai",
                 "repo": "Orpheus-TTS",
                 "stars": 6319
-              }
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -460,8 +483,9 @@
                 "last_commit": "2026-07-24T04:00:17Z",
                 "owner": "supertone-inc",
                 "repo": "supertonic",
-                "stars": 13736
-              }
+                "stars": 13734
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -483,7 +507,8 @@
                 "owner": "zai-org",
                 "repo": "GLM-TTS",
                 "stars": 1056
-              }
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -505,7 +530,8 @@
                 "owner": "ekwek1",
                 "repo": "soprano",
                 "stars": 1488
-              }
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -523,11 +549,12 @@
                 "archived": false,
                 "id": 1129863360,
                 "language": "Python",
-                "last_commit": "2026-08-27T12:08:29Z",
+                "last_commit": "2026-08-28T17:27:27Z",
                 "owner": "kyutai-labs",
                 "repo": "pocket-tts",
-                "stars": 9166
-              }
+                "stars": 9187
+              },
+              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -539,7 +566,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T21:04:46.815Z",
+    "last_updated": "2026-08-28T21:28:30.958Z",
     "original_repository_info": {
       "archived": false,
       "id": 972439820,
