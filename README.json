@@ -21,7 +21,7 @@
                 "open_issues": 3,
                 "owner": "rany2",
                 "repo": "edge-tts",
-                "stars": 12111,
+                "stars": 12122,
                 "topics": [
                   "speech-synthesis",
                   "text-to-speech",
@@ -50,10 +50,10 @@
                 "language": "Python",
                 "license": "MPL-2.0",
                 "last_commit": "2026-06-10T09:01:00Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "idiap",
                 "repo": "coqui-ai-TTS",
-                "stars": 2332,
+                "stars": 2333,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -109,7 +109,7 @@
                 "open_issues": 311,
                 "owner": "myshell-ai",
                 "repo": "OpenVoice",
-                "stars": 37703,
+                "stars": 37727,
                 "topics": [
                   "text-to-speech",
                   "tts",
@@ -226,7 +226,7 @@
                 "open_issues": 212,
                 "owner": "hexgrad",
                 "repo": "kokoro",
-                "stars": 9062,
+                "stars": 9070,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -282,7 +282,7 @@
                 "open_issues": 91,
                 "owner": "nari-labs",
                 "repo": "dia",
-                "stars": 19398,
+                "stars": 19396,
                 "topics": [
                   "ai",
                   "open-weight",
@@ -342,7 +342,7 @@
                 "open_issues": 35,
                 "owner": "astramind-ai",
                 "repo": "Auralis",
-                "stars": 623,
+                "stars": 622,
                 "topics": [
                   "tts",
                   "tts-serving",
@@ -399,10 +399,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-21T12:27:05Z",
-                "open_issues": 369,
+                "open_issues": 370,
                 "owner": "resemble-ai",
                 "repo": "chatterbox",
-                "stars": 26601,
+                "stars": 26614,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -454,11 +454,11 @@
                 "id": 956792596,
                 "language": "C++",
                 "license": "GPL-3.0",
-                "last_commit": "2026-09-17T20:50:01Z",
-                "open_issues": 137,
+                "last_commit": "2026-09-28T20:17:35Z",
+                "open_issues": 138,
                 "owner": "OHF-Voice",
                 "repo": "piper1-gpl",
-                "stars": 5703,
+                "stars": 5714,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -514,7 +514,7 @@
                 "open_issues": 121,
                 "owner": "KittenML",
                 "repo": "KittenTTS",
-                "stars": 15489,
+                "stars": 15493,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -570,7 +570,7 @@
                 "open_issues": 198,
                 "owner": "microsoft",
                 "repo": "VibeVoice",
-                "stars": 54531,
+                "stars": 54538,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -594,11 +594,11 @@
                 "id": 928102730,
                 "language": "Python",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-18T06:52:28Z",
-                "open_issues": 420,
+                "last_commit": "2026-09-29T16:06:53Z",
+                "open_issues": 408,
                 "owner": "index-tts",
                 "repo": "index-tts",
-                "stars": 24209,
+                "stars": 24226,
                 "topics": [
                   "bigvgan",
                   "cross-lingual",
@@ -634,7 +634,7 @@
                 "open_issues": 37,
                 "owner": "neuphonic",
                 "repo": "neutts",
-                "stars": 6294,
+                "stars": 6297,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -662,7 +662,7 @@
                 "open_issues": 126,
                 "owner": "canopyai",
                 "repo": "Orpheus-TTS",
-                "stars": 6347,
+                "stars": 6345,
                 "topics": [
                   "llm",
                   "realtime",
@@ -803,10 +803,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-09-28T07:53:29Z",
-                "open_issues": 53,
+                "open_issues": 56,
                 "owner": "kyutai-labs",
                 "repo": "pocket-tts",
-                "stars": 9680,
+                "stars": 9694,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -821,7 +821,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-28T18:39:57.415Z",
+    "last_updated": "2026-09-29T16:56:37.180Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome TTS and voice cloning models to run with Google Colab",
