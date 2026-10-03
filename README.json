@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
-              "description": null,
+              "description": "rany2/edge-tts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-03-22T19:58:31Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "rany2",
                 "repo": "edge-tts",
-                "stars": 12147,
+                "stars": 12150,
                 "topics": [
                   "speech-synthesis",
                   "text-to-speech",
@@ -57,34 +57,6 @@
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-TTS-Colab",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Collection of awesome TTS and voice cloning models to run with Google Colab",
-                "homepage": null,
-                "id": 972439820,
-                "language": "Jupyter Notebook",
-                "license": "NOASSERTION",
-                "last_commit": "2026-01-23T02:52:04Z",
-                "open_issues": 0,
-                "owner": "Troyanovsky",
-                "repo": "awesome-TTS-Colab",
-                "stars": 68,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "speech-synthesis",
-                  "text-to-speech",
-                  "tts",
-                  "voice-conversion"
-                ]
-              },
-              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -109,40 +81,12 @@
                 "open_issues": 311,
                 "owner": "myshell-ai",
                 "repo": "OpenVoice",
-                "stars": 37750,
+                "stars": 37748,
                 "topics": [
                   "text-to-speech",
                   "tts",
                   "voice-clone",
                   "zero-shot-tts"
-                ]
-              },
-              "first_seen": "2026-08-28T21:28:30.958Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-TTS-Colab",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Collection of awesome TTS and voice cloning models to run with Google Colab",
-                "homepage": null,
-                "id": 972439820,
-                "language": "Jupyter Notebook",
-                "license": "NOASSERTION",
-                "last_commit": "2026-01-23T02:52:04Z",
-                "open_issues": 0,
-                "owner": "Troyanovsky",
-                "repo": "awesome-TTS-Colab",
-                "stars": 68,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "speech-synthesis",
-                  "text-to-speech",
-                  "tts",
-                  "voice-conversion"
                 ]
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -157,7 +101,7 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
-              "description": null,
+              "description": "huggingface/parler-tts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -170,36 +114,8 @@
                 "open_issues": 130,
                 "owner": "huggingface",
                 "repo": "parler-tts",
-                "stars": 5591,
+                "stars": 5590,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:28:30.958Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-TTS-Colab",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Collection of awesome TTS and voice cloning models to run with Google Colab",
-                "homepage": null,
-                "id": 972439820,
-                "language": "Jupyter Notebook",
-                "license": "NOASSERTION",
-                "last_commit": "2026-01-23T02:52:04Z",
-                "open_issues": 0,
-                "owner": "Troyanovsky",
-                "repo": "awesome-TTS-Colab",
-                "stars": 68,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "speech-synthesis",
-                  "text-to-speech",
-                  "tts",
-                  "voice-conversion"
-                ]
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
             }
@@ -213,7 +129,7 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
-              "description": null,
+              "description": "hexgrad/kokoro",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -223,39 +139,11 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2025-08-06T22:28:53Z",
-                "open_issues": 213,
+                "open_issues": 214,
                 "owner": "hexgrad",
                 "repo": "kokoro",
-                "stars": 9123,
+                "stars": 9126,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:28:30.958Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-TTS-Colab",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Collection of awesome TTS and voice cloning models to run with Google Colab",
-                "homepage": null,
-                "id": 972439820,
-                "language": "Jupyter Notebook",
-                "license": "NOASSERTION",
-                "last_commit": "2026-01-23T02:52:04Z",
-                "open_issues": 0,
-                "owner": "Troyanovsky",
-                "repo": "awesome-TTS-Colab",
-                "stars": 68,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "speech-synthesis",
-                  "text-to-speech",
-                  "tts",
-                  "voice-conversion"
-                ]
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
             }
@@ -269,7 +157,7 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
-              "description": null,
+              "description": "nari-labs/dia",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -282,39 +170,11 @@
                 "open_issues": 91,
                 "owner": "nari-labs",
                 "repo": "dia",
-                "stars": 19394,
+                "stars": 19396,
                 "topics": [
                   "ai",
                   "open-weight",
                   "text-to-speech"
-                ]
-              },
-              "first_seen": "2026-08-28T21:28:30.958Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-TTS-Colab",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Collection of awesome TTS and voice cloning models to run with Google Colab",
-                "homepage": null,
-                "id": 972439820,
-                "language": "Jupyter Notebook",
-                "license": "NOASSERTION",
-                "last_commit": "2026-01-23T02:52:04Z",
-                "open_issues": 0,
-                "owner": "Troyanovsky",
-                "repo": "awesome-TTS-Colab",
-                "stars": 68,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "speech-synthesis",
-                  "text-to-speech",
-                  "tts",
-                  "voice-conversion"
                 ]
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -329,7 +189,7 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
-              "description": null,
+              "description": "astramind-ai/Auralis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -350,34 +210,6 @@
                 ]
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-TTS-Colab",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Collection of awesome TTS and voice cloning models to run with Google Colab",
-                "homepage": null,
-                "id": 972439820,
-                "language": "Jupyter Notebook",
-                "license": "NOASSERTION",
-                "last_commit": "2026-01-23T02:52:04Z",
-                "open_issues": 0,
-                "owner": "Troyanovsky",
-                "repo": "awesome-TTS-Colab",
-                "stars": 68,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "speech-synthesis",
-                  "text-to-speech",
-                  "tts",
-                  "voice-conversion"
-                ]
-              },
-              "first_seen": "2026-08-28T21:28:30.958Z"
             }
           ],
           "description": null,
@@ -389,7 +221,7 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
-              "description": null,
+              "description": "resemble-ai/chatterbox",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -399,39 +231,11 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-07-21T12:27:05Z",
-                "open_issues": 371,
+                "open_issues": 372,
                 "owner": "resemble-ai",
                 "repo": "chatterbox",
-                "stars": 26646,
+                "stars": 26657,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:28:30.958Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-TTS-Colab",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Collection of awesome TTS and voice cloning models to run with Google Colab",
-                "homepage": null,
-                "id": 972439820,
-                "language": "Jupyter Notebook",
-                "license": "NOASSERTION",
-                "last_commit": "2026-01-23T02:52:04Z",
-                "open_issues": 0,
-                "owner": "Troyanovsky",
-                "repo": "awesome-TTS-Colab",
-                "stars": 68,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "speech-synthesis",
-                  "text-to-speech",
-                  "tts",
-                  "voice-conversion"
-                ]
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
             }
@@ -445,7 +249,7 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
-              "description": null,
+              "description": "OHF-Voice/piper1-gpl",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -458,36 +262,8 @@
                 "open_issues": 140,
                 "owner": "OHF-Voice",
                 "repo": "piper1-gpl",
-                "stars": 5743,
+                "stars": 5745,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:28:30.958Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-TTS-Colab",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Collection of awesome TTS and voice cloning models to run with Google Colab",
-                "homepage": null,
-                "id": 972439820,
-                "language": "Jupyter Notebook",
-                "license": "NOASSERTION",
-                "last_commit": "2026-01-23T02:52:04Z",
-                "open_issues": 0,
-                "owner": "Troyanovsky",
-                "repo": "awesome-TTS-Colab",
-                "stars": 68,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "speech-synthesis",
-                  "text-to-speech",
-                  "tts",
-                  "voice-conversion"
-                ]
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
             }
@@ -501,49 +277,21 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
-              "description": null,
+              "description": "KittenML/KittenTTS",
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": " State-of-the-art TTS model under 25MB 😻 ",
+                "description": "Open-source State-of-the-art TTS model which runs on a CPU 😻 ",
                 "homepage": null,
                 "id": 1032248449,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-19T00:12:38Z",
+                "last_commit": "2026-10-03T01:06:06Z",
                 "open_issues": 121,
                 "owner": "KittenML",
                 "repo": "KittenTTS",
-                "stars": 15490,
+                "stars": 15493,
                 "topics": []
-              },
-              "first_seen": "2026-08-28T21:28:30.958Z"
-            },
-            {
-              "node_type": "item",
-              "title": "awesome-TTS-Colab",
-              "description": null,
-              "children": [],
-              "repo_info": {
-                "archived": false,
-                "description": "Collection of awesome TTS and voice cloning models to run with Google Colab",
-                "homepage": null,
-                "id": 972439820,
-                "language": "Jupyter Notebook",
-                "license": "NOASSERTION",
-                "last_commit": "2026-01-23T02:52:04Z",
-                "open_issues": 0,
-                "owner": "Troyanovsky",
-                "repo": "awesome-TTS-Colab",
-                "stars": 68,
-                "topics": [
-                  "awesome",
-                  "awesome-list",
-                  "speech-synthesis",
-                  "text-to-speech",
-                  "tts",
-                  "voice-conversion"
-                ]
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
             }
@@ -557,7 +305,7 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
-              "description": null,
+              "description": "microsoft/VibeVoice",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -570,7 +318,7 @@
                 "open_issues": 199,
                 "owner": "microsoft",
                 "repo": "VibeVoice",
-                "stars": 54602,
+                "stars": 54604,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -585,7 +333,7 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
-              "description": null,
+              "description": "index-tts/index-tts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -598,7 +346,7 @@
                 "open_issues": 409,
                 "owner": "index-tts",
                 "repo": "index-tts",
-                "stars": 24260,
+                "stars": 24264,
                 "topics": [
                   "bigvgan",
                   "cross-lingual",
@@ -621,7 +369,7 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
-              "description": null,
+              "description": "neuphonic/neutts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -634,7 +382,7 @@
                 "open_issues": 37,
                 "owner": "neuphonic",
                 "repo": "neutts",
-                "stars": 6299,
+                "stars": 6300,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -649,7 +397,7 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
-              "description": null,
+              "description": "canopyai/Orpheus-TTS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -662,7 +410,7 @@
                 "open_issues": 126,
                 "owner": "canopyai",
                 "repo": "Orpheus-TTS",
-                "stars": 6346,
+                "stars": 6345,
                 "topics": [
                   "llm",
                   "realtime",
@@ -681,7 +429,7 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
-              "description": null,
+              "description": "supertone-oss-archive/supertonic",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -694,7 +442,7 @@
                 "open_issues": 131,
                 "owner": "supertone-oss-archive",
                 "repo": "supertonic",
-                "stars": 13783,
+                "stars": 13782,
                 "topics": [
                   "cpp",
                   "csharp",
@@ -730,7 +478,7 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
-              "description": null,
+              "description": "zai-org/GLM-TTS",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -762,7 +510,7 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
-              "description": null,
+              "description": "ekwek1/soprano",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -775,7 +523,7 @@
                 "open_issues": 19,
                 "owner": "ekwek1",
                 "repo": "soprano",
-                "stars": 1603,
+                "stars": 1604,
                 "topics": [
                   "text-to-speech",
                   "tts"
@@ -793,7 +541,7 @@
             {
               "node_type": "item",
               "title": "GitHub Link",
-              "description": null,
+              "description": "kyutai-labs/pocket-tts",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -803,10 +551,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-01T13:03:30Z",
-                "open_issues": 54,
+                "open_issues": 55,
                 "owner": "kyutai-labs",
                 "repo": "pocket-tts",
-                "stars": 9751,
+                "stars": 9760,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -821,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T16:45:00.377Z",
+    "last_updated": "2026-10-03T04:30:08.900Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome TTS and voice cloning models to run with Google Colab",
