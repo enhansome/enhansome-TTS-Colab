@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-14T09:30:53Z",
-                "open_issues": 6,
+                "open_issues": 8,
                 "owner": "rany2",
                 "repo": "edge-tts",
-                "stars": 12403,
+                "stars": 12413,
                 "topics": [
                   "speech-synthesis",
                   "text-to-speech",
@@ -53,7 +53,7 @@
                 "open_issues": 19,
                 "owner": "idiap",
                 "repo": "coqui-ai-TTS",
-                "stars": 2343,
+                "stars": 2344,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -81,7 +81,7 @@
                 "open_issues": 315,
                 "owner": "myshell-ai",
                 "repo": "OpenVoice",
-                "stars": 38097,
+                "stars": 38105,
                 "topics": [
                   "text-to-speech",
                   "tts",
@@ -114,7 +114,7 @@
                 "open_issues": 130,
                 "owner": "huggingface",
                 "repo": "parler-tts",
-                "stars": 5594,
+                "stars": 5595,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -139,10 +139,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2025-08-06T22:28:53Z",
-                "open_issues": 217,
+                "open_issues": 218,
                 "owner": "hexgrad",
                 "repo": "kokoro",
-                "stars": 9738,
+                "stars": 9767,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -170,7 +170,7 @@
                 "open_issues": 91,
                 "owner": "nari-labs",
                 "repo": "dia",
-                "stars": 19408,
+                "stars": 19409,
                 "topics": [
                   "ai",
                   "open-weight",
@@ -234,7 +234,7 @@
                 "open_issues": 377,
                 "owner": "resemble-ai",
                 "repo": "chatterbox",
-                "stars": 27379,
+                "stars": 27408,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -262,7 +262,7 @@
                 "open_issues": 156,
                 "owner": "OHF-Voice",
                 "repo": "piper1-gpl",
-                "stars": 6063,
+                "stars": 6076,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -287,10 +287,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-27T01:43:42Z",
-                "open_issues": 144,
+                "open_issues": 145,
                 "owner": "KittenML",
                 "repo": "KittenTTS",
-                "stars": 16631,
+                "stars": 16696,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -318,7 +318,7 @@
                 "open_issues": 201,
                 "owner": "microsoft",
                 "repo": "VibeVoice",
-                "stars": 55010,
+                "stars": 55029,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -346,7 +346,7 @@
                 "open_issues": 413,
                 "owner": "index-tts",
                 "repo": "index-tts",
-                "stars": 24783,
+                "stars": 24804,
                 "topics": [
                   "bigvgan",
                   "cross-lingual",
@@ -410,7 +410,7 @@
                 "open_issues": 126,
                 "owner": "canopyai",
                 "repo": "Orpheus-TTS",
-                "stars": 6380,
+                "stars": 6382,
                 "topics": [
                   "llm",
                   "realtime",
@@ -523,7 +523,7 @@
                 "open_issues": 19,
                 "owner": "ekwek1",
                 "repo": "soprano",
-                "stars": 1632,
+                "stars": 1633,
                 "topics": [
                   "text-to-speech",
                   "tts"
@@ -554,7 +554,7 @@
                 "open_issues": 63,
                 "owner": "kyutai-labs",
                 "repo": "pocket-tts",
-                "stars": 10113,
+                "stars": 10126,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T17:14:21.401Z",
+    "last_updated": "2026-10-29T17:29:11.173Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome TTS and voice cloning models to run with Google Colab",
