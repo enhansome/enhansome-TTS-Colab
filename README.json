@@ -21,7 +21,7 @@
                 "open_issues": 8,
                 "owner": "rany2",
                 "repo": "edge-tts",
-                "stars": 12426,
+                "stars": 12431,
                 "topics": [
                   "speech-synthesis",
                   "text-to-speech",
@@ -53,7 +53,7 @@
                 "open_issues": 19,
                 "owner": "idiap",
                 "repo": "coqui-ai-TTS",
-                "stars": 2347,
+                "stars": 2349,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -81,7 +81,7 @@
                 "open_issues": 316,
                 "owner": "myshell-ai",
                 "repo": "OpenVoice",
-                "stars": 38113,
+                "stars": 38120,
                 "topics": [
                   "text-to-speech",
                   "tts",
@@ -139,10 +139,10 @@
                 "language": "JavaScript",
                 "license": "Apache-2.0",
                 "last_commit": "2025-08-06T22:28:53Z",
-                "open_issues": 216,
+                "open_issues": 217,
                 "owner": "hexgrad",
                 "repo": "kokoro",
-                "stars": 9811,
+                "stars": 9842,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -170,7 +170,7 @@
                 "open_issues": 91,
                 "owner": "nari-labs",
                 "repo": "dia",
-                "stars": 19408,
+                "stars": 19407,
                 "topics": [
                   "ai",
                   "open-weight",
@@ -234,7 +234,7 @@
                 "open_issues": 378,
                 "owner": "resemble-ai",
                 "repo": "chatterbox",
-                "stars": 27472,
+                "stars": 27489,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -259,10 +259,10 @@
                 "language": "C++",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-30T17:29:33Z",
-                "open_issues": 154,
+                "open_issues": 155,
                 "owner": "OHF-Voice",
                 "repo": "piper1-gpl",
-                "stars": 6102,
+                "stars": 6120,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -287,10 +287,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-27T01:43:42Z",
-                "open_issues": 145,
+                "open_issues": 146,
                 "owner": "KittenML",
                 "repo": "KittenTTS",
-                "stars": 16727,
+                "stars": 16759,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -315,10 +315,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-08T05:29:29Z",
-                "open_issues": 202,
+                "open_issues": 203,
                 "owner": "microsoft",
                 "repo": "VibeVoice",
-                "stars": 55071,
+                "stars": 55089,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -346,7 +346,7 @@
                 "open_issues": 413,
                 "owner": "index-tts",
                 "repo": "index-tts",
-                "stars": 24843,
+                "stars": 24857,
                 "topics": [
                   "bigvgan",
                   "cross-lingual",
@@ -410,7 +410,7 @@
                 "open_issues": 126,
                 "owner": "canopyai",
                 "repo": "Orpheus-TTS",
-                "stars": 6383,
+                "stars": 6385,
                 "topics": [
                   "llm",
                   "realtime",
@@ -442,7 +442,7 @@
                 "open_issues": 131,
                 "owner": "supertone-oss-archive",
                 "repo": "supertonic",
-                "stars": 13757,
+                "stars": 13756,
                 "topics": [
                   "cpp",
                   "csharp",
@@ -491,7 +491,7 @@
                 "open_issues": 46,
                 "owner": "zai-org",
                 "repo": "GLM-TTS",
-                "stars": 1069,
+                "stars": 1070,
                 "topics": [
                   "edge-computing",
                   "llm",
@@ -554,7 +554,7 @@
                 "open_issues": 63,
                 "owner": "kyutai-labs",
                 "repo": "pocket-tts",
-                "stars": 10152,
+                "stars": 10159,
                 "topics": []
               },
               "first_seen": "2026-08-28T21:28:30.958Z"
@@ -569,7 +569,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T16:13:23.288Z",
+    "last_updated": "2026-11-01T17:12:37.252Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome TTS and voice cloning models to run with Google Colab",
